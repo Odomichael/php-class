@@ -22,7 +22,7 @@ echo preg_match_all ($pattern, $sentence);
         Regular Expression Functions -> preg_replace()
         i - case-insensitive search
         m - multiline search
-        u - enables correct matching of UTF-8 encoded patterns
+        u - enables correct matching of UTF-8 encoded pattern
     */
 
 
