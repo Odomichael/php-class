@@ -1,0 +1,15 @@
+Create a simple Login System: 
+
+1. Create a login system that uses conditional statements to check whether a user has entered valid login credentials. 
+
+2. Use a loop to ask the user for their login details until they enter valid ones. 
+
+3. Use a ternary operator to display a message indicating whether the login was successful or not.
+
+
+Bonus challenge 💪🏾
+ Temperature Converter:  Create a program that converts temperatures between Celsius and Fahrenheit.
+ 
+ 1. Use a conditional statement to check whether the user has selected Celsius or Fahrenheit as the input temperature unit.
+ 
+ 2. Use a loop to allow the user to convert multiple temperatures. Use a ternary operator to display the converted temperature.
