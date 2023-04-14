@@ -4,6 +4,10 @@
  A class is a template for objects and an object is an instance of  a class
 
 */
+/*
+ A class is a template for objects and an object is an instance of  a class
+
+*/
 class Fruit {
     public $name ;
     public $color;
