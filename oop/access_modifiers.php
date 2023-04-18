@@ -13,11 +13,18 @@ class Material {
     }
 
     private function set_height($age) {
-        this->height = $age;
+        $this->height = $age;
     } 
 }
 
 $flutter = new Material();
+/*
+i did it
+$flutter->set_name('harrison');
+$flutter->set_color('green');
+$flutter->set_height('80');*/
+
+
 /*
 $flutter->name = 'Mango';
 $flutter->color = 'Blue';
