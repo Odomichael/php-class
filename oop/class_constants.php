@@ -2,6 +2,8 @@
 /**
  * class constants can be useful if you need to define some constant data withing a class.
  * Class constants are case-sensitive. However, it is recommended to name the constants in all uppercase letters.
+ * 
+ * *:: scope resolution operator
  */
 
  class Goodbyte{
